@@ -1,0 +1,21 @@
+#container {
+    margin: 100px 30%;
+}
+
+#btns {
+    position: relative;
+    bottom: 230px;
+    left: 130px;
+}
+input {
+    margin-bottom: 20px;
+    height: 50px;
+    border: none;
+    font-size: 3rem;
+    width: 120px;
+    margin-left: 20px;
+}
+#start{
+    margin-left: 10px;
+    margin-right: 10px;
+}
